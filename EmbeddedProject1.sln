@@ -1,0 +1,43 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "EmbeddedProject1", "EmbeddedProject1.vgdbcmake", "{CAA7579F-355E-4570-82C4-AF394EC54C77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Hardware = Debug|Hardware
+		MinSizeRel|Hardware = MinSizeRel|Hardware
+		Release|Hardware = Release|Hardware
+		RelWithDebInfo|Hardware = RelWithDebInfo|Hardware
+		Debug|Simulation = Debug|Simulation
+		MinSizeRel|Simulation = MinSizeRel|Simulation
+		Release|Simulation = Release|Simulation
+		RelWithDebInfo|Simulation = RelWithDebInfo|Simulation
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.Debug|Hardware.ActiveCfg = Debug|Hardware
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.Debug|Hardware.Build.0 = Debug|Hardware
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.MinSizeRel|Hardware.ActiveCfg = MinSizeRel|Hardware
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.MinSizeRel|Hardware.Build.0 = MinSizeRel|Hardware
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.Release|Hardware.ActiveCfg = Release|Hardware
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.Release|Hardware.Build.0 = Release|Hardware
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.RelWithDebInfo|Hardware.ActiveCfg = RelWithDebInfo|Hardware
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.RelWithDebInfo|Hardware.Build.0 = RelWithDebInfo|Hardware
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.Debug|Simulation.ActiveCfg = Debug|Simulation
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.Debug|Simulation.Build.0 = Debug|Simulation
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.MinSizeRel|Simulation.ActiveCfg = MinSizeRel|Simulation
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.MinSizeRel|Simulation.Build.0 = MinSizeRel|Simulation
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.Release|Simulation.ActiveCfg = Release|Simulation
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.Release|Simulation.Build.0 = Release|Simulation
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.RelWithDebInfo|Simulation.ActiveCfg = RelWithDebInfo|Simulation
+		{CAA7579F-355E-4570-82C4-AF394EC54C77}.RelWithDebInfo|Simulation.Build.0 = RelWithDebInfo|Simulation
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E69D197-BAA9-4FA3-92DC-F4FFC5C111F8}
+	EndGlobalSection
+EndGlobal
